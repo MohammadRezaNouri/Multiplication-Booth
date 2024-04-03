@@ -2,9 +2,6 @@
 A simple program that multiplies two n-bit numbers in Booth format at n + 1 clocks
 
 In this program, the optimal circuit algorithm for the serial multiplication of signed numbers is implemented using the Booth method in the C Plus Plus language.
-This algorithm is used in computer architecture. To learn it, you can use this program for trial and error.
-In this program, the optimal circuit algorithm for the serial multiplication of signed numbers is implemented using the Booth method in the C Plus Plus language.
-This algorithm is used in computer architecture. To learn it, you can use this program for trial and error.
 ## Tip
 Be sure to enter the two entered numbers the same size, for example:
 
